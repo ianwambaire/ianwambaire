@@ -1,13 +1,13 @@
 <!-- ANIMATED TYPING HEADER -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&color=00AEEF&center=true&vCenter=true&width=600&lines=Hey+👋+I'm+Ian+Nganga;Mobile+App+Developer;Full+Stack+Web+Developer;Always+Learning+New+Things!">
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&color=00AEEF&center=true&vCenter=true&width=600&lines=Hey+👋+I'm+Ian+Ng'ang'a;Mobile+App+Developer;Full+Stack+Web+Developer;Always+Learning+New+Things!">
 </h1>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm **Ian Nganga**, a **Mobile Application Developer** and **Full-Stack Web Developer** passionate about solving real world problems using technology.
+I'm **Ian Ng'ang'a**, a **Mobile Application Developer** and **Full-Stack Web Developer** passionate about solving real world problems using technology.
 
 - 📱 Mobile Dev: Flutter, Swift and Kotlin (learning)
 - 🌐 Full Stack: React, Node.js, Express, Php
