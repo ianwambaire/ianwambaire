@@ -68,14 +68,6 @@ Linux • Windows • macOS
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" />
 </p>
 
-Contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
 ## 🔗 Connect With Me
 
 <p align="left">
