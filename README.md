@@ -3,9 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=32&color=00AEEF&center=true&vCenter=true&width=700&lines=Hey+👋+I'm+Ian+Wambaire;Data+%26+Software+Developer;Automation+%7C+Analytics+%7C+Full+Stack;">
 </h1>
 
----
-
-## 👨‍💻 About Me
+## About Me
 
 I'm **Ian Wambaire**, an Informatics and Computer Science student passionate about building **data-driven and automation solutions** that solve real-world problems.
 
@@ -17,7 +15,7 @@ I'm **Ian Wambaire**, an Informatics and Computer Science student passionate abo
 
 ---
 
-## 🚀 What I Do
+## What I Do
 
 - Analyze and extract insights from data  
 - Automate repetitive processes to improve efficiency  
@@ -26,7 +24,7 @@ I'm **Ian Wambaire**, an Informatics and Computer Science student passionate abo
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
 ### Languages  
 Python • SQL • JavaScript • Dart • Java • C++
