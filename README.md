@@ -9,41 +9,41 @@
 
 I'm **Ian Wambaire**, an Informatics and Computer Science student passionate about building **data-driven and automation solutions** that solve real-world problems.
 
-- 🔍 Focus: Data Analysis, Automation & Software Development  
-- ⚙️ Built systems processing **600+ records daily**  
-- 🧠 Strong in Python, SQL, and problem-solving  
-- 📱 Also experienced in Mobile & Web Development  
-- 🎯 Goal: Build efficient, scalable systems that create real impact  
+- Focus: Data Analysis, Automation & Software Development  
+- Built systems processing **600+ records daily**  
+- Strong in Python, SQL, and problem-solving  
+- Also experienced in Mobile & Web Development  
+- Goal: Build efficient, scalable systems that create real impact  
 
 ---
 
 ## 🚀 What I Do
 
-- 📊 Analyze and extract insights from data  
-- 🤖 Automate repetitive processes to improve efficiency  
-- 🌐 Build full-stack and mobile applications  
-- 🧩 Solve real-world problems using technology  
+- Analyze and extract insights from data  
+- Automate repetitive processes to improve efficiency  
+- Build full-stack and mobile applications  
+- Solve real-world problems using technology  
 
 ---
 
 ## 🧠 Tech Stack
 
-### 💻 Languages  
+### Languages  
 Python • SQL • JavaScript • Dart • Java • C++
 
-### 📊 Data & Automation  
+### Data & Automation  
 Pandas • Matplotlib • Data Cleaning • Data Analysis  
 OCR (Tesseract, Google Vision) • Web Automation (Playwright)  
 
-### 🌐 Development  
+### Development  
 Flutter • Firebase • HTML • CSS • JavaScript • PHP • MySQL • MongoDB  
 
-### ⚙️ Tools  
+### Tools  
 Git • GitHub • Linux • Excel • CI/CD Basics • UiPath  
 
 ---
 
-## 🔧 Tools & IDEs
+## Tools & IDEs
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
@@ -55,7 +55,7 @@ Git • GitHub • Linux • Excel • CI/CD Basics • UiPath
 
 ---
 
-## 📌 Featured Work
+## Featured Work
 
 - 🔹 Automated Policy Document Processing System  
   → Built a system that extracts and processes large volumes of documents, reducing manual work and handling 600+ records daily  
@@ -65,7 +65,7 @@ Git • GitHub • Linux • Excel • CI/CD Basics • UiPath
 
 ---
 
-## 🔗 Connect With Me
+## Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ian-wambaire-5332932a9/" target="_blank">
@@ -75,4 +75,4 @@ Git • GitHub • Linux • Excel • CI/CD Basics • UiPath
 
 ---
 
-<h3 align="center">🔥 Building solutions that make work easier, faster, and smarter</h3>
+<h3 align="center">Building solutions that make work easier, faster, and smarter</h3>
