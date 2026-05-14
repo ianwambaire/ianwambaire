@@ -55,10 +55,10 @@ Git • GitHub • Linux • Excel • CI/CD Basics • UiPath
 
 ## Featured Work
 
-- 🔹 Automated Policy Document Processing System  
+- Automated Policy Document Processing System  
   → Built a system that extracts and processes large volumes of documents, reducing manual work and handling 600+ records daily  
 
-- 🔹 Digital Therapy Mobile Application  
+- Digital Therapy Mobile Application  
   → Developed a platform connecting patients with therapists through real-time communication  
 
 ---
