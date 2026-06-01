@@ -3,15 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=32&color=00AEEF&center=true&vCenter=true&width=1100&lines=Hey+I'm+Ian+Wambaire;Data+Engineer+%7C+Data+Analyst+%7C+Software+Developer;Automation+%7C+Machine+Learning+%7C+ETL+Pipelines;Building+Data-Driven+Solutions+That+Scale">
 </h1>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ian-wambaire-5332932a9/">
-    <img src="https://img.shields.io/badge/LinkedIn-Ian%20Wambaire-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:iannnganga154@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
-  </a>
-</p>
-
 # About Me
 
 I'm **Ian Wambaire**, a final-year Informatics and Computer Science student at Strathmore University with interests in Data Engineering, Data Science, Automation, and Software Development.
