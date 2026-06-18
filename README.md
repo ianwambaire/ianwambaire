@@ -146,8 +146,6 @@ Flutter • Software Development
 
 Problem Solving • System Design
 ## GitHub Stats
-*Note: These data visualization modules automatically update in real time based on your active version control contributions.*
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ianwambaire&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff" alt="GitHub Stats" />
   &nbsp;
