@@ -145,16 +145,16 @@ Automation • OCR • Web Scraping
 Flutter • Software Development
 
 Problem Solving • System Design
-## GitHub Stats
+
+## GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ianwambaire&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianwambaire&layout=compact&hide_border=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=ianwambaire&theme=tokyonight&hide_border=true" alt="Ian Wambaire GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ianwambaire&bg_color=0f0c29&color=67e8f9&line=2c5364&point=67e8f9&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ianwambaire&theme=tokyo-night&hide_border=true" alt="Ian Wambaire GitHub Activity Graph" />
 </p>
+
 
 
 ---
